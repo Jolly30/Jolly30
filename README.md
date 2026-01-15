@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Gift Egwuenu</h3>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://www.giftegwuenu.com">Website</a> •
   <a href="https://twitter.com/lauragift_">X</a> •
   <a href="https://linkedin.com/in/egwuenugift">LinkedIn</a> •
   <a href="https://www.youtube.com/c/EgwuenuGift">YouTube</a>
