@@ -1,8 +1,9 @@
 <h3 align="center">👋 Hi there, I'm Yadanar (Jolly30)</h3>
 
 <p align="center">
-  <a href="https://github.com/Jolly30">GitHub Profile</a> •
-  <a href="https://github.com/Jolly30/Quiz-Lab-Pro">Quiz Lab Pro</a>
+  <a href="https://t.me/YDNBAN">Telegram</a> •
+  <a href="https://x.com/dar_dar_luvNFT">X</a> •
+  <a href="https://github.com/Jolly30">GitHub</a>
 </p>
 
 ---
