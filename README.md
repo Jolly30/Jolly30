@@ -2,9 +2,8 @@
 
 <p align="center">
   <a href="https://t.me/YDNBAN">Telegram</a> •
-  <a href="https://x.com/dar_dar_luvNFT">X</a> •
+  <a href="https://x.com/dar_darluvNFT">X</a> •
   <a href="https://github.com/Jolly30">GitHub</a> •
-  <a href="https://discord.com/jolly_ban">Discord</a>
 </p>
 
 ---
